@@ -1,0 +1,65 @@
+.roof {
+  width: 700px;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid #555;
+  position:absolute;
+  top:px;
+  left:350px;
+
+}
+.topLeft {
+    position: absolute;
+    top: 300px;
+    bottom: 600px;
+    left: 400px;
+    height: 250px;
+    width: 400px;
+    background-color: #902eff;
+  }
+  
+  .topRight {
+    position: absolute;
+    top: 300px;
+    bottom: 600px;
+    left: 800px;
+    height: 250px;
+    width: 250px;
+    background-color: #ff9100;
+  }
+  .bottomRight {
+    position: absolute;
+    top: 50px;
+    bottom: 600px;
+    left: 650px;
+    height: 250px;
+    width: 400px;
+    background-color: #00e1ff;
+  }
+  .bottomLeft {
+    position: absolute;
+    top: 50px;
+    bottom: 600px;
+    left: 400px;
+    height: 250px;
+    width: 250px;
+    background-color: #ff0000;
+  }
+  .door {
+    height: 150px;
+    width: 100px;
+    background-color: #555;
+    left: 700px;
+    top: 400px;
+    position: absolute;
+  }
+  .treeLeft {
+    width: 1000px;
+    height:100px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #555;
+    position: absolute
+  }
+
